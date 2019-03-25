@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             Becoming Dapper
+email:             austin@shugartonline.com
+description:       Insert description here.
+author:            Austin Shugart
 # baseurl:           "/startbootstrap-clean-blog-jekyll"
 # url:               "http://blackrockdigital.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  austinglenn
+linkedin_username:   austinshugart
+instagram_username: ashug19
 
 # Build settings
 markdown:          kramdown

@@ -3,3 +3,16 @@
 ---
 
 @import "styles";
+
+div.overlay {
+  &.home{
+  }&.about{
+    opacity: .6;
+  }&.posts{
+  }&.contact{
+  }
+}
+
+header.masthead {
+  background-position: bottom;
+}
